@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {
   "startCommand": "npm start"
 <<<<<<< Updated upstream
@@ -13,6 +14,8 @@
 }
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> Stashed changes
 {
   "startCommand": "npm start"
 <<<<<<< Updated upstream
@@ -25,9 +28,12 @@
   
 }
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 
 =======
   
 }
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
